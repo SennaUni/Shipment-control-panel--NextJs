@@ -1,5 +1,3 @@
-import React from "react";
-
 import { Rocket, X, Check } from "lucide-react";
 
 const Widget = () => {
